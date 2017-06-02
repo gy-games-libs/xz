@@ -19,9 +19,9 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/ulikunitz/xz/internal/gflag"
-	"github.com/ulikunitz/xz/internal/term"
-	"github.com/ulikunitz/xz/internal/xlog"
+	"github.com/gy-games-libs/xz/internal/gflag"
+	"github.com/gy-games-libs/xz/internal/term"
+	"github.com/gy-games-libs/xz/internal/xlog"
 )
 
 const (

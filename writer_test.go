@@ -12,7 +12,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ulikunitz/xz/internal/randtxt"
+	"github.com/gy-games-libs/xz/internal/randtxt"
 )
 
 func TestWriter(t *testing.T) {
