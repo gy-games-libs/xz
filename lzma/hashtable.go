@@ -8,7 +8,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ulikunitz/xz/internal/hash"
+	"github.com/gy-games-libs/xz/internal/hash"
 )
 
 /* For compression we need to find byte sequences that match the byte
