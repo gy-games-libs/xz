@@ -12,7 +12,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/ulikunitz/xz"
+	"github.com/gy-games-libs/xz"
 )
 
 func main() {
